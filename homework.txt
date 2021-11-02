@@ -1,0 +1,6 @@
+Install Anaconda
+Add Plotly (look up the correct name) or another visulisation packing using conda
+Load a dataframe from excel or csv with several continuous columns
+Create a new continuous column and new discreet column in your Dataframe
+Create a simple scatter plot of one axis against another
+Create a matrix / facet plot of multiple (but not all) continuous axes plotted and colour by a discreet dimensions
