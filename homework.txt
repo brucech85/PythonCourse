@@ -1,4 +1,4 @@
-Install Anaconda
+Install Anaconda and using and IDE of your choise i.e. Jupyter or VsCode
 Add Plotly (look up the correct name) or another visulisation packing using conda
 Load a dataframe from excel or csv with several continuous columns
 Create a new continuous column and new discreet column in your Dataframe
